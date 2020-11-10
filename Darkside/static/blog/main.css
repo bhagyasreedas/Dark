@@ -1,7 +1,8 @@
 body {
-    background: #fafafa;
-    color: #333333;
-    margin-top: 8rem;
+    background: blueviolet;
+    background-image: url(tree.png);
+    color: gray;
+    margin-top: 5rem;
 }
 
 h1,
@@ -10,15 +11,16 @@ h3,
 h4,
 h5,
 h6 {
-    color: #444444;
+    color:rosybrown;
 }
 
 ul {
-    margin: 0;
+    margin: 2.6;
 }
 
 .bg-steel {
-    background-color: palevioletred;
+    background-color: cornflowerblue;
+    background-image: url(stars.png);
 }
 
 .site-header .navbar-nav .nav-link {
@@ -26,7 +28,7 @@ ul {
 }
 
 .site-header .navbar-nav .nav-link:hover {
-    color: #ffffff
+    color: #fffff
 }
 
 .site-header .navbar-nav .nav-link.active {
@@ -46,12 +48,12 @@ ul {
 }
 
 a.article-title:hover {
-    color: #428bca;
+    color: white;
     text-decoration: none;
 }
 
 .article-content {
-    white-space: pre-line;
+  white-space: pre-line;
 }
 
 .article-img {
